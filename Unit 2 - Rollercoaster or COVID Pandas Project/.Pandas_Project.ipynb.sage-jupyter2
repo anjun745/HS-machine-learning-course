@@ -1,0 +1,4 @@
+{"backend_state":"ready","kernel":"anaconda2020","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"markdown","id":"8a95eb","input":"### Pandas Rollercoaster or COVID Project\n\nUse this Jupyter Notebook to do your analysis, write your code and present your findings.","pos":0,"state":"done","type":"cell"}
+{"id":"16da5a","input":"","pos":1,"type":"cell"}
+{"last_load":1612226822280,"type":"file"}
